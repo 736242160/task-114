@@ -1,0 +1,4 @@
+# 资源定义
+resource 会议室A
+resource 会议室B
+resource 投影仪
